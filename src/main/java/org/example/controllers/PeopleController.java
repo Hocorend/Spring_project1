@@ -78,6 +78,5 @@ public class PeopleController {
             return "people/showWithBooks";
         }
         return "people/showWithoutBooks";
-
     }
 }
